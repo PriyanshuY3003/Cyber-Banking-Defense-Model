@@ -1,0 +1,8 @@
+{
+  "type": "Decision Tree based",
+  "threshold": 0.5,
+  "training_samples": 12,
+  "description": "Classifies fraudulent transactions",
+  "saved_timestamp": "2026-04-21T11:33:48.114552",
+  "model_type": "FraudClassifier"
+}

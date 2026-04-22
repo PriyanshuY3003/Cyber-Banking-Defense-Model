@@ -1,0 +1,8 @@
+{
+  "type": "Isolation Forest based",
+  "contamination": 0.1,
+  "training_samples": 16,
+  "description": "Detects anomalous network behavior",
+  "saved_timestamp": "2026-04-21T11:33:48.106389",
+  "model_type": "AnomalyDetector"
+}
