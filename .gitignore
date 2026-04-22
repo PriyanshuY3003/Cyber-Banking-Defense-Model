@@ -1,0 +1,36 @@
+
+# Large dataset files - should not be in version control
+data/*.csv
+data/*.parquet
+data/*.json
+*.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/*.log
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/

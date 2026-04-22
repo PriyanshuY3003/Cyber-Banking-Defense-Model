@@ -1,0 +1,7 @@
+networkx        # For Phase 1: Network Topology
+pandas          # For Phase 4: Analytics
+scikit-learn    # For Phase 2: Anomaly Detection
+flask           # For the Dashboard API
+python-dotenv   # For secret management
+pytest          # For the Test suite
+pyyaml          # For config.yaml parsing
